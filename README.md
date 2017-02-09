@@ -26,30 +26,32 @@ Collaborators: a.alathel93@gmail.com charithp120@gmail.com cagborgli0311@my.mwsu
 Exit Exam Preparation Application	1
 Prepared by: Abdullah Alathel, Charith Perera, Christopher Gborgli, Clarence Williams and Rephael Edwards	1
 1. Introduction Overview	4
-1.1 Purpose of the Document	4
-1.2 Scope of Project	4
-1.2.1 Main Objective	4
-1.2.3 Specific Goals	4
-1.3 Overview of Document	5
+	1.1 Purpose of the Document	4
+	1.2 Scope of Project	4
+	1.2.1 Main Objective	4
+	1.2.3 Specific Goals	4
+	1.3 Overview of Document	5
 2. Users	5
-2.1 Who are Users?	5
-2.2 Use cases and Use case Diagrams	6
-2.3 Scenarios	6
-3.1 Development Environment	6
-3.2 Target Environment	6
-3.3 Functional Requirements	7
-3.3.1 Issues	7
-3.3.2 Major Subsystems	7
-3.3.3 Major Functions	7
-3.3.4 Major Classes Identified and Listed	7
-3.3.5 Minor System Functions	7
-3.4 User Interface Specifications	7
-3.5 Non-functional Requirements	8
-3.5.1 Management	8
-3.5.2 Technical	8
-3.5.3 Performance	8
-3.5.4 Security	8
-3.6 System Evolution / Maintenance	8
+	2.1 Who are Users?	5
+	2.2 Use cases and Use case Diagrams	6
+	2.3 Scenarios	6
+3.Development
+	3.1 Development Environment	6
+	3.2 Target Environment	6
+	3.3 Functional Requirements	7
+		3.3.1 Issues	7
+		3.3.2 Major Subsystems	7
+		3.3.3 Major Functions	7
+		3.3.4 Major Classes Identified and Listed	7
+		3.3.5 Minor System Functions	7
+	3.4 User Interface Specifications	7
+	3.5 Non-functional Requirements	8
+		3.5.1 Management	8
+		3.5.2 Technical	8
+		3.5.3 Performance	8
+		3.5.4 Security	8
+	3.6 System Evolution / Maintenance	8
+	
 4. Other Deliverables Required	8
 5. Risks	8
 6. Other things you think of..	9
